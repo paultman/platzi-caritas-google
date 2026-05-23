@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Platzi Live Card",
-  description: "Captura una foto y conviértela en una card 16-bit de Platzi Live.",
+  title: "BUILD WITH AI Medellín",
+  description: "Captura una foto y conviértela en una card 16-bit de BUILD WITH AI Medellín, May 23.",
 };
 
 export default function RootLayout({
